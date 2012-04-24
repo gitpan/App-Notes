@@ -7,4 +7,5 @@ README.md
 README.pod
 bin/notes
 dist.ini
+lib/App/Notes.pm
 t/00-compile.t

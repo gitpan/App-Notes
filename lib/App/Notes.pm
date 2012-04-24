@@ -1,3 +1,14 @@
+package App::Notes;
+{
+  $App::Notes::VERSION = '0.004';
+}
+
+# ABSTRACT: Simple. Git-based. Notes.
+
+
+__END__
+=pod
+
 =head1 NAME
 
 App::Notes - Simple. Git-based. Notes.
@@ -36,4 +47,6 @@ law.
 
 Works under CC0 do not require attribution. When citing the work, you should
 not imply endorsement by the author.
+
+=cut
 
