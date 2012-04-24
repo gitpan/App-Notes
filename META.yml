@@ -25,5 +25,6 @@ requires:
   warnings: 0
 resources:
   bugtracker: https://github.com/throughnothing/App-Notes/issues
+  homepage: http://metacpan.org/release/App-Notes/
   repository: git://github.com/throughnothing/App-Notes.git
-version: 0.001
+version: 0.002
