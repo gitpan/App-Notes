@@ -4,7 +4,7 @@ notes - Simple. Git-based. Notes.
 
 # VERSION
 
-version 0.002
+version 0.003
 
 # SYNOPSIS
 
@@ -70,9 +70,10 @@ executes, and `push` when its done (except on `list` and `show` commands).
 To turn this behavior off, set `APP_NOTES_AUTO_SYNC=0`, and then you can
 manually pull/push with `notes sync`.
 
-# AUTHOR
+# AUTHORS
 
-William Wolf <throughnothing@gmail.com>
+- William Wolf <throughnothing@gmail.com>
+- Naveed Massjouni <naveedm9@gmail.com>
 
 # COPYRIGHT AND LICENSE
 

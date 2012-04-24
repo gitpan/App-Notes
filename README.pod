@@ -4,7 +4,7 @@ notes - Simple. Git-based. Notes.
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 
@@ -70,9 +70,19 @@ executes, and C<push> when its done (except on C<list> and C<show> commands).
 To turn this behavior off, set C<APP_NOTES_AUTO_SYNC=0>, and then you can
 manually pull/push with C<notes sync>.
 
-=head1 AUTHOR
+=head1 AUTHORS
+
+=over 4
+
+=item *
 
 William Wolf <throughnothing@gmail.com>
+
+=item *
+
+Naveed Massjouni <naveedm9@gmail.com>
+
+=back
 
 =head1 COPYRIGHT AND LICENSE
 
