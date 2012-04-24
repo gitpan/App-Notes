@@ -1,0 +1,10 @@
+CHANGES
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README.md
+README.pod
+bin/notes
+dist.ini
+t/00-compile.t
