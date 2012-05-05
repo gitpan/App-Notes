@@ -1,6 +1,6 @@
 package App::Notes;
 {
-  $App::Notes::VERSION = '0.005';
+  $App::Notes::VERSION = '0.006';
 }
 
 # ABSTRACT: Simple. Git-based. Notes.
@@ -18,7 +18,7 @@ App::Notes - Simple. Git-based. Notes.
 
 =head1 VERSION
 
-version 0.005
+version 0.006
 
 =head1 SYNOPSIS
 
