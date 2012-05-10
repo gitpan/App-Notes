@@ -10,7 +10,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.300014, CPAN::Meta::Converter version 2.120630'
+generated_by: 'Dist::Zilla version 4.300016, CPAN::Meta::Converter version 2.120630'
 license: unrestricted
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/throughnothing/App-Notes/issues
   homepage: http://metacpan.org/release/App-Notes/
   repository: git://github.com/throughnothing/App-Notes.git
-version: 0.007
+version: 0.008
