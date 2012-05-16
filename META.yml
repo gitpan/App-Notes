@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/throughnothing/App-Notes/issues
   homepage: http://metacpan.org/release/App-Notes/
   repository: git://github.com/throughnothing/App-Notes.git
-version: 0.008
+version: 0.009
