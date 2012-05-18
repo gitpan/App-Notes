@@ -20,6 +20,7 @@ requires:
   App::Rad: 0
   Capture::Tiny: 0
   Git::Repository: 0
+  List::MoreUtils: 0
   Path::Class: 0
   perl: v5.10.0
   strict: 0
@@ -28,4 +29,4 @@ resources:
   bugtracker: https://github.com/throughnothing/App-Notes/issues
   homepage: http://metacpan.org/release/App-Notes/
   repository: git://github.com/throughnothing/App-Notes.git
-version: 0.009
+version: 0.010
